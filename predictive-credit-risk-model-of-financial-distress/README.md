@@ -14,11 +14,11 @@ purpose of this model is to identify whether a ESG data can act as a warining ri
 1. **Global Target Alignment & Financial Strength**  
    As per the model, firms aligned with global targets and having higher financial strength(Piotroski Score) show a higher probability of being in the Safe zone. This could be a combination of possible regulatory support and increased reputation due to company commitments towards net zero.
 
-2. **Tobacco Involvement**  
-   Tobacco involvement increases the probability of being Safe, which could be due to higher cash flow and margins of these companies. Overall, they appear financially stable and profitable.
+2. **Tobacco and Alcoholic Beverages Involvement**  
+   Tobacco involvement and Alcoholic Beverages is in lower probability of being in Distress Zone, which could be due to higher cash flow and margins of these industries. Overall, they appear financially stable and profitable.
 
-3. **SBTI & Temperature Alignment**  
-   SBTI and Temperature alignment commitments could put stress on companies as they spend on Transition (risk) towards sustainable business and align with future regulations.
+3. **Temperature Alignment**  
+   companies that are aligned with temperature targets show a moderate distress signal, could be due to spending on transition(Risk) towards net zero.
 
 4. **ESG Controversies & Weapons Involvement**  
    ESG controversies and involvement in weapons act as distress signals for companies, possibly due to regulatory pressure or reputational damage.
