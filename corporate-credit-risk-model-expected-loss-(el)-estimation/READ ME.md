@@ -1,4 +1,4 @@
-# Corporate Credit Risk Modeling Using Credit Ratings
+# Corporate Credit Risk Model – Expected Loss (EL) Estimation Using Credit Ratings
 
 Project Overview
 
