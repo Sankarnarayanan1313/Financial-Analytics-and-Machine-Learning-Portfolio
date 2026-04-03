@@ -1,4 +1,4 @@
-# corporate-financial-distress-model-(ews) Using ESG Indicators
+# Corporate Financial Distress Early Warning System (EWS) Model – ESG Indicators
 
 ### Project Overview
 

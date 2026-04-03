@@ -1,8 +1,8 @@
-# Corporate Credit Risk Model – Expected Loss (EL) Estimation Using Credit Ratings
+# Credit Portfolio Risk Model - Expected Loss (EL) Estimation Using Credit Ratings
 
 Project Overview
 
-This project is to develop a corporate credit risk model to estimate the probability of high default risk using credit rating information as a proxy target variable. Logistic Regression Model is implemented and evaluated using standard credit risk validation metrics such as AUC, Gini coefficient, KS statistic, and PSI. Threshold optimization is performed to improve the identification of high-risk companies. The model outputs are further used to estimate Expected Loss and analyze portfolio risk under different stress scenarios.
+This project is to develop a corporate credit portfolio risk model to estimate probability of default (PD) using credit ratings as a proxy target variable. Used Logistic Regression and evaluated model performance using ROC-AUC, Gini Coefficient, KS Statistic, and PSI. Adjusted classification threshold to improve identification of high-risk companies. Estimated Expected Loss (EL) using model outputs and analyzed portfolio risk under different stress scenarios.
 
 ### Table Of Contents
 
@@ -22,7 +22,7 @@ Target Variable already Defined as Default_risk_indicator. For more Information,
    - 4.1 [Sector Coefficient Breakdown](#Sector-Coefficient-Breakdown)
 5. [Expected Loss Calculation](#Expected-Loss-Calculation)
    - 5.1[Expected Loss sectoral analysis](#Expected-Loss-sectoral-analysis)
-6. [Stress Testing](#Stress-Testing)
+6. [Portfolio Stress Testing](#Portfolio-Stress-Testing)
    - 6.1 [Expected Loss Distribution in Baseline and Stress Scenarios](#Expected-Loss-Distribution-in-Baseline-and-Stress-Scenarios)
    - 6.2 [Expected Loss Migration Matrix](#Expected-Loss-Migration-Matrix)
    - 6.3 [Top Borrowers with Largest Expected Loss Increase](#Top-Borrowers-with-Largest-Expected-Loss-Increase)
