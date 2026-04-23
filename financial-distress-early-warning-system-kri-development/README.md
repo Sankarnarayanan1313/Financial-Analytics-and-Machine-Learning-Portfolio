@@ -1,4 +1,4 @@
-# Corporate Financial Distress Early Warning System (EWS) Model – ESG Indicators
+# Financial Distress Early Warning System (EWS) - KRI Development
 
 ### Project Overview
 

@@ -1,8 +1,8 @@
-# Credit Portfolio Risk Model - Expected Loss (EL) Estimation Using Credit Ratings
+# Credit Portfolio Risk Analytics Framework - EL Estimation & Stress Testing
 
 Project Overview
 
-This project is to develop a corporate credit portfolio risk model to estimate probability of default (PD) using credit ratings as a proxy target variable. Used Logistic Regression and evaluated model performance using ROC-AUC, Gini Coefficient, KS Statistic, and PSI. Adjusted classification threshold to improve identification of high-risk companies. Estimated Expected Loss (EL) using model outputs and analyzed portfolio risk under different stress scenarios.
+This project is to develop a corporate credit portfolio risk framework to estimate probability of default (PD) using credit ratings as a proxy target variable. Used Logistic Regression and evaluated model performance using ROC-AUC, Gini Coefficient, KS Statistic, and PSI. Adjusted classification threshold to improve identification of high-risk companies. Estimated Expected Loss (EL) using model outputs and analyzed portfolio risk under different stress scenarios.
 
 ### Table Of Contents
 
