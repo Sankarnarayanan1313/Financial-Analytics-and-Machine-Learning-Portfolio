@@ -1,4 +1,4 @@
-# Credit Portfolio Risk Analytics Framework - EL Estimation & Stress Testing
+# Credit Portfolio Risk Analytics Framework - Expected Loss Estimation & Stress Testing
 
 Project Overview
 
